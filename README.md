@@ -2,7 +2,7 @@
 
 This repository is used as a simple way to whatsapp blast bot.
 
-You can use this desktop by downloading the zip repository, then following this step :
+You can use this desktop app by downloading the zip repository, then following this step :
 
 1. Extract zip repo,
 2. Open dist folder,
